@@ -24,7 +24,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Evans-Gash/Movie-Streaming-Website.git
+git clone https://github.com/Evans-Gash/Gash-Movies.git
 ```
 
 2. Open the project directory:
