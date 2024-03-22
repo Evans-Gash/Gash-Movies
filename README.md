@@ -1,6 +1,3 @@
-Certainly! Here's a more detailed version of the README.md file:
-
-```markdown
 # Gash-Movies
 
 Gash-Movies is a movie streaming website project built as part of the ALX Specialization Full Stack Engineering curriculum. This project, developed solely by Evans Gash (GitHub Username: Evans-Gash), provides users with a platform to browse through a curated collection of movies and series, watch trailers, and interact with the interface.
@@ -61,5 +58,5 @@ Contributions to Gash-Movies are welcome! If you'd like to contribute to this pr
 - **Author**: Evans Mugambi
 - **Project Status**: 
 - **Date of Completion**: 
-```
+
 
