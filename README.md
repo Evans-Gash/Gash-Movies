@@ -20,10 +20,10 @@ Gash-Movies is a movie streaming website project built as part of the ALX Specia
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/Evans-Gash/Gash-Movies/raw/main/Screenshots/IMG_3679.jpg)
-![Screenshot 2](https://github.com/Evans-Gash/Gash-Movies/raw/main/Screenshots/IMG_3690.jpg)
-![Screenshot 3](https://github.com/Evans-Gash/Gash-Movies/raw/main/Screenshots/IMG_3692.jpg)
-![Screenshot 4](https://github.com/Evans-Gash/Gash-Movies/raw/main/Screenshots/IMG_3693.jpg)
+![Screenshot 1](https://github.com/Evans-Gash/Gash-Movies/blob/Master/Screenshots/IMG_3679.jpg)
+![Screenshot 2](https://github.com/Evans-Gash/Gash-Movies/blob/Master/Screenshots/IMG_3690.jpg)
+![Screenshot 3](https://github.com/Evans-Gash/Gash-Movies/blob/Master/Screenshots/IMG_3692.jpg)
+![Screenshot 4](https://github.com/Evans-Gash/Gash-Movies/blob/Master/Screenshots/IMG_3693.jpg)
 
 ## Getting Started
 
