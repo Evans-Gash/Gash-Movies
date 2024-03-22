@@ -18,6 +18,10 @@ Gash-Movies is a movie streaming website project built as part of the ALX Specia
 - **CSS**: Utilized for custom styling and Font Awesome icons integration.
 - **JavaScript**: Enables dynamic and interactive elements on the website.
 
+## Demo Video
+
+- [Watch Demo Video](https://drive.google.com/file/d/1LdHTuEeyyg94pnEl4qffIHNHc_Ng9dDa/view?usp=drive_link)
+
 ## Screenshots
 
 ![Screenshot 1](https://github.com/Evans-Gash/Gash-Movies/blob/Master/Screenshots/IMG_3679.jpg)
