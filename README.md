@@ -18,6 +18,13 @@ Gash-Movies is a movie streaming website project built as part of the ALX Specia
 - **CSS**: Utilized for custom styling and Font Awesome icons integration.
 - **JavaScript**: Enables dynamic and interactive elements on the website.
 
+## Screenshots
+
+![Screenshot 1](https://github.com/Evans-Gash/Gash-Movies/raw/main/Screenshots/IMG_3679.jpg)
+![Screenshot 2](https://github.com/Evans-Gash/Gash-Movies/raw/main/Screenshots/IMG_3690.jpg)
+![Screenshot 3](https://github.com/Evans-Gash/Gash-Movies/raw/main/Screenshots/IMG_3692.jpg)
+![Screenshot 4](https://github.com/Evans-Gash/Gash-Movies/raw/main/Screenshots/IMG_3693.jpg)
+
 ## Getting Started
 
 To run this project locally, follow these steps:
@@ -58,5 +65,3 @@ Contributions to Gash-Movies are welcome! If you'd like to contribute to this pr
 - **Author**: Evans Mugambi
 - **Project Status**: 
 - **Date of Completion**: 
-
-
