@@ -15,7 +15,9 @@ arrows.forEach((arrow, i) => {
       movieLists[i].style.transform = "translateX(0)";
       clickCounter = 0;
     }
+  
   });
+
 
   console.log(Math.floor(window.innerWidth / 270));
 });
