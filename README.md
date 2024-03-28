@@ -1,6 +1,6 @@
 # Gash-Movies
 
-Gash-Movies is a movie streaming website project built as part of the ALX Specialization Full Stack Engineering curriculum. This project, developed solely by Evans Gash (GitHub Username: Evans-Gash), provides users with a platform to browse through a curated collection of movies and series, watch trailers, and interact with the interface.
+Gash-Movies is a movie streaming website project built as part of the ALX Specialization Full Stack Engineering curriculum. This project, developed solely by Evans Gash , provides users with a platform to browse through a curated collection of movies and series, watch trailers, and interact with the interface.
 
 ## Features
 
@@ -46,17 +46,7 @@ cd Gash-Movies
 ```
 
 3. Open the `index.html` file in your preferred web browser.
-
-## Contributing
-
-Contributions to Gash-Movies are welcome! If you'd like to contribute to this project, please follow these guidelines:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/my-feature`).
-3. Make your changes.
-4. Commit your changes (`git commit -am 'Add some feature'`).
-5. Push to the branch (`git push origin feature/my-feature`).
-6. Create a new Pull Request.
+4. 
 
 ## Acknowledgements
 
@@ -65,7 +55,7 @@ Contributions to Gash-Movies are welcome! If you'd like to contribute to this pr
 
 ## Project Details
 
-- **ALX Specialization**: Full Stack Engineering
+- **ALX**: Full Stack Engineering (Front-End)
 - **Author**: Evans Mugambi
-- **Project Status**: 
-- **Date of Completion**: 
+- **Project Status**: Complete
+- **Date of Completion**: 28/3/2024
