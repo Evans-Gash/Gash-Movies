@@ -5,9 +5,7 @@ Gash-Movies is a movie streaming website project built as part of the ALX Specia
 ## Features
 
 - **Responsive Design**: The website is designed to be accessible and user-friendly on both desktop and mobile devices.
-- **Navigation Menu**: Users can easily navigate through different categories of movies and series using the intuitive navigation menu.
-- **Featured Content Section**: The homepage highlights new releases and popular titles to grab users' attention.
-- **Interactive Movie List**: Detailed movie listings include images, titles, descriptions, and watch buttons for seamless user experience.
+- **Interactive Movie List**: Detailed movie listings include images, titles, descriptions, and watch buttons for enhanced user experience.
 - **Trailer Feature**: Users can now watch trailers for movies directly on the website, enhancing their browsing experience.
 - **Dark Mode Toggle**: A dark mode option is provided for users who prefer a darker interface.
 - **Sidebar Menu**: Quick access to main sections is facilitated through a sidebar menu, improving navigation efficiency.
@@ -46,16 +44,17 @@ cd Gash-Movies
 ```
 
 3. Open the `index.html` file in your preferred web browser.
-4. 
+
 
 ## Acknowledgements
 
 - **Font Awesome**: Provides a rich library of icons used throughout the website.
 - **GitHub**: Hosts the repository for version control and collaboration.
+- **Youtube**: providing embedded videos for trailers via easy integration
 
 ## Project Details
 
-- **ALX**: Full Stack Engineering (Front-End)
+- **ALX**: Full Stack Engineering (Front-End) {WebStack Portfolio Project}
 - **Author**: Evans Mugambi
 - **Project Status**: Complete
-- **Date of Completion**: 28/3/2024
+- **Date of Completion**: 29/3/2024
